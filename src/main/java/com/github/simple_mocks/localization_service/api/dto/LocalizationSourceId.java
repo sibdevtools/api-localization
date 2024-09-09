@@ -15,13 +15,27 @@ import lombok.Setter;
 @Setter
 @NoArgsConstructor
 @AllArgsConstructor
-public final class LocalizationSource {
+public final class LocalizationSourceId {
+    /**
+     * Default kind code
+     */
     public static final String DEFAULT_KIND_CODE = "SERVICE_STANDARD_LOCALIZATIONS";
 
+    /**
+     * System code
+     */
     private String systemCode;
+    /**
+     * Kind code, can be used to clarify localization source
+     */
     private String kindCode = DEFAULT_KIND_CODE;
 
-    public LocalizationSource(String systemCode) {
+    /**
+     * Construct localization source code from system
+     *
+     * @param systemCode system code
+     */
+    public LocalizationSourceId(String systemCode) {
         this.systemCode = systemCode;
     }
 }

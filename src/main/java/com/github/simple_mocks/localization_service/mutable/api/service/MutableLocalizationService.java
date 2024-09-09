@@ -5,6 +5,8 @@ import com.github.simple_mocks.localization_service.mutable.api.rq.DeleteLocaliz
 import jakarta.annotation.Nonnull;
 
 /**
+ * Interface provide ability to change localization service state
+ *
  * @author sibmaks
  * @since 0.0.10
  */

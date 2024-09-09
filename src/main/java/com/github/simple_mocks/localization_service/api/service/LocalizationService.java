@@ -2,11 +2,9 @@ package com.github.simple_mocks.localization_service.api.service;
 
 
 import com.github.simple_mocks.localization_service.api.dto.LocalizedText;
-import com.github.simple_mocks.localization_service.api.dto.LocalizationSource;
 import com.github.simple_mocks.localization_service.api.rq.LocalizeRq;
 import jakarta.annotation.Nonnull;
-
-import java.util.Locale;
+import jakarta.annotation.Nullable;
 
 /**
  * Localization service
@@ -22,6 +20,7 @@ public interface LocalizationService {
      * @param rq request
      * @return localized text or null
      */
+    @Nullable
     LocalizedText localize(@Nonnull LocalizeRq rq);
 
 }

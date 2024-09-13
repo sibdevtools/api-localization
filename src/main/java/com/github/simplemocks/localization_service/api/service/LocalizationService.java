@@ -1,8 +1,8 @@
-package com.github.simple_mocks.localization_service.api.service;
+package com.github.simplemocks.localization_service.api.service;
 
 
-import com.github.simple_mocks.localization_service.api.dto.LocalizedText;
-import com.github.simple_mocks.localization_service.api.rq.LocalizeRq;
+import com.github.simplemocks.localization_service.api.dto.LocalizedText;
+import com.github.simplemocks.localization_service.api.rq.LocalizeRq;
 import jakarta.annotation.Nonnull;
 import jakarta.annotation.Nullable;
 

@@ -1,4 +1,4 @@
-package com.github.simple_mocks.localization_service.api.dto;
+package com.github.simplemocks.localization_service.api.dto;
 
 import jakarta.annotation.Nonnull;
 

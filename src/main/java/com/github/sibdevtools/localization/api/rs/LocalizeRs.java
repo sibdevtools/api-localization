@@ -1,10 +1,9 @@
-package com.github.simplemocks.localization_service.api.rs;
+package com.github.sibdevtools.localization.api.rs;
 
-import com.github.simplemocks.common.api.dto.ErrorRsDto;
-import com.github.simplemocks.common.api.rs.StandardBodyRs;
-import com.github.simplemocks.localization_service.api.dto.LocalizedText;
+import com.github.sibdevtools.common.api.dto.ErrorRsDto;
+import com.github.sibdevtools.common.api.rs.StandardBodyRs;
+import com.github.sibdevtools.localization.api.dto.LocalizedText;
 import jakarta.annotation.Nullable;
-import lombok.Builder;
 
 /**
  * Localize response dto

@@ -1,4 +1,4 @@
-# Simple Mock - Localization API
+# SibDevTools - Localization API
 
 ## To build
 

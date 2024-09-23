@@ -1,7 +1,7 @@
-package com.github.simplemocks.localization_service.mutable.api.service;
+package com.github.sibdevtools.localization.mutable.api.service;
 
-import com.github.simplemocks.localization_service.mutable.api.rq.AddLocalizationsRq;
-import com.github.simplemocks.localization_service.mutable.api.rq.DeleteLocalizationsRq;
+import com.github.sibdevtools.localization.mutable.api.rq.AddLocalizationsRq;
+import com.github.sibdevtools.localization.mutable.api.rq.DeleteLocalizationsRq;
 import jakarta.annotation.Nonnull;
 
 /**

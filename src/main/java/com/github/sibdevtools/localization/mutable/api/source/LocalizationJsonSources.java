@@ -1,4 +1,4 @@
-package com.github.simplemocks.localization_service.mutable.api.source;
+package com.github.sibdevtools.localization.mutable.api.source;
 
 import java.lang.annotation.*;
 

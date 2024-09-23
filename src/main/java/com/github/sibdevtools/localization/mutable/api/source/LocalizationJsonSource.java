@@ -1,6 +1,6 @@
-package com.github.simplemocks.localization_service.mutable.api.source;
+package com.github.sibdevtools.localization.mutable.api.source;
 
-import com.github.simplemocks.localization_service.api.dto.LocalizationSourceId;
+import com.github.sibdevtools.localization.api.dto.LocalizationSourceId;
 
 import java.lang.annotation.*;
 

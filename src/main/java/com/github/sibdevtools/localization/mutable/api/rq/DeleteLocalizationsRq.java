@@ -1,7 +1,7 @@
-package com.github.simplemocks.localization_service.mutable.api.rq;
+package com.github.sibdevtools.localization.mutable.api.rq;
 
-import com.github.simplemocks.localization_service.api.dto.LocalizationSourceId;
-import com.github.simplemocks.localization_service.mutable.api.dto.LocalizationKey;
+import com.github.sibdevtools.localization.mutable.api.dto.LocalizationKey;
+import com.github.sibdevtools.localization.api.dto.LocalizationSourceId;
 import jakarta.annotation.Nonnull;
 
 import java.util.List;

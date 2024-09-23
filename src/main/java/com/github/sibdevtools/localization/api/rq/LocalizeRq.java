@@ -1,6 +1,6 @@
-package com.github.simplemocks.localization_service.api.rq;
+package com.github.sibdevtools.localization.api.rq;
 
-import com.github.simplemocks.localization_service.api.dto.LocalizationId;
+import com.github.sibdevtools.localization.api.dto.LocalizationId;
 import jakarta.annotation.Nonnull;
 
 import java.util.Locale;

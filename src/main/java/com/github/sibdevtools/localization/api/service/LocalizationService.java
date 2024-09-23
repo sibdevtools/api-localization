@@ -1,8 +1,8 @@
-package com.github.simplemocks.localization_service.api.service;
+package com.github.sibdevtools.localization.api.service;
 
 
-import com.github.simplemocks.localization_service.api.rq.LocalizeRq;
-import com.github.simplemocks.localization_service.api.rs.LocalizeRs;
+import com.github.sibdevtools.localization.api.rq.LocalizeRq;
+import com.github.sibdevtools.localization.api.rs.LocalizeRs;
 import jakarta.annotation.Nonnull;
 
 /**

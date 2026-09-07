@@ -1,6 +1,6 @@
-package com.github.sibdevtools.localization.mutable.api.source;
+package io.github.sibdevtools.localization.mutable.api.source;
 
-import com.github.sibdevtools.localization.api.dto.LocalizationSourceId;
+import io.github.sibdevtools.localization.api.dto.LocalizationSourceId;
 
 import java.lang.annotation.*;
 

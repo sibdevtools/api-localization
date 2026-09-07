@@ -1,4 +1,4 @@
-package com.github.sibdevtools.localization.mutable.api.dto;
+package io.github.sibdevtools.localization.mutable.api.dto;
 
 import jakarta.annotation.Nonnull;
 

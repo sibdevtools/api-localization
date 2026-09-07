@@ -1,6 +1,6 @@
-package com.github.sibdevtools.localization.api.rq;
+package io.github.sibdevtools.localization.api.rq;
 
-import com.github.sibdevtools.localization.api.dto.LocalizationId;
+import io.github.sibdevtools.localization.api.dto.LocalizationId;
 import jakarta.annotation.Nonnull;
 
 import java.util.Locale;

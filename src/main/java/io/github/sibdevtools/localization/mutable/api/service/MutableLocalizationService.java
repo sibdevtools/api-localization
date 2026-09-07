@@ -1,7 +1,7 @@
-package com.github.sibdevtools.localization.mutable.api.service;
+package io.github.sibdevtools.localization.mutable.api.service;
 
-import com.github.sibdevtools.localization.mutable.api.rq.AddLocalizationsRq;
-import com.github.sibdevtools.localization.mutable.api.rq.DeleteLocalizationsRq;
+import io.github.sibdevtools.localization.mutable.api.rq.AddLocalizationsRq;
+import io.github.sibdevtools.localization.mutable.api.rq.DeleteLocalizationsRq;
 import jakarta.annotation.Nonnull;
 
 /**

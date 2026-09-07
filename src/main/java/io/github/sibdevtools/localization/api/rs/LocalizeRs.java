@@ -1,8 +1,8 @@
-package com.github.sibdevtools.localization.api.rs;
+package io.github.sibdevtools.localization.api.rs;
 
-import com.github.sibdevtools.common.api.dto.ErrorRsDto;
-import com.github.sibdevtools.common.api.rs.StandardBodyRs;
-import com.github.sibdevtools.localization.api.dto.LocalizedText;
+import io.github.sibdevtools.common.api.dto.ErrorRsDto;
+import io.github.sibdevtools.common.api.rs.StandardBodyRs;
+import io.github.sibdevtools.localization.api.dto.LocalizedText;
 import jakarta.annotation.Nullable;
 
 /**

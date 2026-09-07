@@ -1,4 +1,4 @@
-package com.github.sibdevtools.localization.api.dto;
+package io.github.sibdevtools.localization.api.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

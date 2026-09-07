@@ -1,7 +1,7 @@
-package com.github.sibdevtools.localization.mutable.api.rq;
+package io.github.sibdevtools.localization.mutable.api.rq;
 
-import com.github.sibdevtools.localization.mutable.api.dto.LocalizationKey;
-import com.github.sibdevtools.localization.api.dto.LocalizationSourceId;
+import io.github.sibdevtools.localization.mutable.api.dto.LocalizationKey;
+import io.github.sibdevtools.localization.api.dto.LocalizationSourceId;
 import jakarta.annotation.Nonnull;
 
 import java.util.List;

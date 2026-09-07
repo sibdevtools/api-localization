@@ -1,8 +1,8 @@
-package com.github.sibdevtools.localization.api.service;
+package io.github.sibdevtools.localization.api.service;
 
 
-import com.github.sibdevtools.localization.api.rq.LocalizeRq;
-import com.github.sibdevtools.localization.api.rs.LocalizeRs;
+import io.github.sibdevtools.localization.api.rq.LocalizeRq;
+import io.github.sibdevtools.localization.api.rs.LocalizeRs;
 import jakarta.annotation.Nonnull;
 
 /**

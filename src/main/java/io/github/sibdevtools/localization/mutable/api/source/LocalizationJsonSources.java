@@ -1,4 +1,4 @@
-package com.github.sibdevtools.localization.mutable.api.source;
+package io.github.sibdevtools.localization.mutable.api.source;
 
 import java.lang.annotation.*;
 
